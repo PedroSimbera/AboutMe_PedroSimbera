@@ -40,25 +40,23 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 
 
 - ⚡ Curiosities about me:
+   - I love to use the Lattes curriculum platform; 
+ 
+   - I enjoy taking care of my health and nutrition;
+ 
+   - I love exercising;
 
-  - I love to use the Lattes curriculum platform; 
-<div> </div>
-
-  - I enjoy taking care of my health and nutrition;
-
-  - I love exercising;
-
-  - I'm a big fan of setting goals (I always mention that they should be made with care and attention):
+   - I'm a big fan of setting goals (I always mention that they should be made with care and attention):
 
     - I have 4 daily goals!
  
-    - Two of them are divided into 100-day challenges:
+      - Two of them are divided into 100-day challenges:
  
-      - I'm x/100 days into reading books by great Brazilian authors.
+        - I'm x/100 days into reading books by great Brazilian authors.
   
-      - I'm x/100 days into studying German on Duolingo (I'm still a beginner, but the important thing is to start!).
+        - I'm x/100 days into studying German on Duolingo (I'm still a beginner, but the important thing is to start!).
   
-      - I study English and technology every day. 
+        - I study English and technology every day. 
 
   - So, I can say that I really enjoy challenges.
 
