@@ -60,9 +60,18 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 
   - So, I can say that I really enjoy challenges.
 
-
-
+- 🔭 List of courses I am taking and those that have been completed:
+- [x] Algorithm and programming logic 
+- [x] Basic to advanced Git and Github 
+- [x] Java programming logic and object-oriented programming
+- [ ] Basic to advanced Java (with mongoDB & spring)
+- [ ] Basic to advanced Python
+- [ ] Basic to advanced JavaScript (with TypeScript & NextJs & React)
+- [ ] Microsoft Power BI for Business Intelligence and Data Science
+- [ ] SQL & MySQL
  
+ 
+ <!-- Social links -->
  ## Social Links
 <div>
 <a href="https://www.instagram.com/pedrosimbera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
