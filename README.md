@@ -7,8 +7,8 @@
 <!-- Status -->
  ## Github Stats
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSimbera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt=""/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSimbera&layout=compact&langs_count=7&theme=tokyonight" alt=""/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSimbera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSimbera&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <!-- Learning and improving -->
