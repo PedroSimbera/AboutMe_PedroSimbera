@@ -4,12 +4,7 @@
 <!-- IMG -->
 ![Meu nome em uma imagem](img/psimg.jpeg)
  
-<!-- Status -->
- ## Github Stats
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSimbera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSimbera&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
+
 
 <!-- Learning and improving -->
 Here I will tell you a little about myself, my trajectory and my adventures.
@@ -70,6 +65,12 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 - [ ] Microsoft Power BI for Business Intelligence and Data Science
 - [ ] SQL & MySQL
  
+ <!-- Status -->
+ ## Github Stats
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSimbera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSimbera&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
  
  <!-- Social links -->
  ## Social Links
