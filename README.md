@@ -1,6 +1,6 @@
 # 👋 HI THERE, welcome to my Github profile.
 
-### Hallo, Guten Tag! Wie seht's? Ich bin Pedro Simbera!
+### Hallo, Guten Tag! Wie geht's? Ich bin Pedro Simbera!
 <!-- IMG -->
 ![Meu nome em uma imagem](img/psimg.jpeg)
  
