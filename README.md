@@ -76,8 +76,8 @@ Here I will tell you a little about myself, my trajectory and my adventures.
  <!-- Social links -->
  ## Social Links
 <div>
-<a href="https://www.instagram.com/pedrosimbera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href = "pedrosimbera@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/pedro-simbera-b90040170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="http://lattes.cnpq.br/0039169774814014" target="_blank"><img src="https://img.shields.io/badge/-Lattes-yellow" target="_blank" width="100px" height="29px"></a>
+<a href="https://www.instagram.com/pedrosimbera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href = "pedrosimbera@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/pedro-simbera-b90040170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+<a href="http://lattes.cnpq.br/0039169774814014" target="_blank"><img src="https://img.shields.io/badge/-Lattes-yellow" width="100px" height="29px"></a>
 </div>
