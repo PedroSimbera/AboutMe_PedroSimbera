@@ -47,7 +47,7 @@ Here I will tell you a little about myself, my trajectory and my adventures.
  
       - Two of them are divided into 100-day challenges:
  
-        - I'm x/100 days into reading books by great Brazilian authors.
+        - I'm x/100 days into reading great books.
   
         - I'm x/100 days into studying German on Duolingo (I'm still a beginner, but the important thing is to start!).
   
