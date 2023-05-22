@@ -57,11 +57,11 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 
 - 🔭 List of courses I am taking and those that have been completed:
 - [x] Algorithm and programming logic 
-- [x] Basic to advanced Git and Github 
+- [x] Git and Github 
 - [x] Java programming logic and object-oriented programming
 - [ ] Basic to advanced Java (with mongoDB & spring)
-- [ ] Basic to advanced Python (with Django)
-- [ ] Basic to advanced JavaScript (with TypeScript & NextJs & React)
+- [ ] Python (with Django)
+- [ ] JavaScript (with TypeScript & NextJs & React)
 - [ ] Microsoft Power BI for Business Intelligence and Data Science
 - [ ] SQL & MySQL
  
