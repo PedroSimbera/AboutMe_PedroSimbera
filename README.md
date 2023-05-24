@@ -63,7 +63,7 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 - [ ] Python (with Django)
 - [ ] JavaScript (with TypeScript & NextJs & React)
 - [ ] Microsoft Power BI for Business Intelligence and Data Science
-- [ ] SQL & MySQL
+- [ ] SQL
  
  <!-- Status -->
  ## Github Stats
