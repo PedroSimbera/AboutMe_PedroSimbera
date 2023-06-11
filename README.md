@@ -31,7 +31,7 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 <!-- about me -->
 - 👯 I'm actively seeking collaboration opportunities:
 
-  -  Particularly with data science and data analysis teams. I'm passionate about leveraging my skills to contribute to impactful projects and eager to join a team that shares my drive for innovation and data-driven solutions. Additionally, I'm excited to apply the knowledge I've gained through my post-graduate studies to real-world projects.
+  -  Particularly with data science, data analytics, machine learning, artificial intelligence teams. I am passionate about leveraging my skills to contribute to impactful projects and look forward to being part of a team that shares my desire for innovation and data-driven solutions. Additionally, I am excited to apply the knowledge I gained from my postgraduate studies to real-world projects.
 
 
 - ⚡ Curiosities about me:
@@ -44,24 +44,14 @@ Here I will tell you a little about myself, my trajectory and my adventures.
    - I'm a big fan of setting goals (I always mention that they should be made with care and attention):
 
     - I have 4 daily goals!
- 
-      - Two of them are divided into 100-day challenges:
- 
-        - I'm x/100 days into reading great books.
-  
-        - I'm x/100 days into studying German on Duolingo (I'm still a beginner, but the important thing is to start!).
-  
-        - I study English and technology every day. 
-
-  - So, I can say that I really enjoy challenges.
+    
+    - I study two languages. I love it!
 
 - 🔭 List of courses I am taking and those that have been completed:
 - [x] Algorithm and programming logic 
 - [x] Git and Github 
 - [x] Java programming logic and object-oriented programming
-- [ ] Basic to advanced Java (with mongoDB & spring)
 - [ ] Python (with Django)
-- [ ] JavaScript (with TypeScript & NextJs & React)
 - [ ] Microsoft Power BI for Business Intelligence and Data Science
 - [ ] SQL
  
