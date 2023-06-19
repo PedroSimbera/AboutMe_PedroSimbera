@@ -11,21 +11,13 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 
 - 🌱 I’m currently learning and improving these technology's:
 
-
-
-
 <!-- Skills -->
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" height="35px" width="35px" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" height="35px" width="35px" />   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" height="35px" width="35px" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="35px" width="35px" />    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter"  height="35px" width="35px" />    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" height="35px" width="35px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" height="35px" width="35px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" height="35px" width="35px" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdowm" height="35px" width="35px"/
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="35px" width="35px" /> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="35px" width="35px" /></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" height="35px" width="35px" /></code>                            
 <div>
 
 <!-- about me -->
@@ -35,25 +27,25 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 
 
 - ⚡ Curiosities about me:
-   - I love to use the Lattes curriculum platform; 
  
    - I enjoy taking care of my health and nutrition;
  
    - I love exercising;
 
    - I'm a big fan of setting goals (I always mention that they should be made with care and attention):
-
-    - I have 4 daily goals!
     
     - I study two languages. I love it!
 
 - 🔭 List of courses I am taking and those that have been completed:
 - [x] Algorithm and programming logic 
 - [x] Git and Github 
-- [x] Java programming logic and object-oriented programming
+- [x] Learning Programming (java)
+- [x] Essencial DataBase
+- [x] DataBase Foundations (oracle academy)
+- [x] SQL
 - [ ] Python (with Django)
 - [ ] Microsoft Power BI for Business Intelligence and Data Science
-- [ ] SQL
+- [ ] MySQL
  
  <!-- Status -->
  ## Github Stats
