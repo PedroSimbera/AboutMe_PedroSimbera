@@ -44,8 +44,13 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 - [x] DataBase Foundations (oracle academy)
 - [x] SQL
 - [ ] Python (with Django)
-- [ ] Microsoft Power BI for Business Intelligence and Data Science
 - [ ] MySQL
+- [ ] Excel
+- [ ] VBA e Macro
+- [ ] Power BI
+- [ ] SQL Server
+- [ ] ETL 1/2
+- [ ] ETL 2/2
  
  <!-- Status -->
  ## Github Stats
