@@ -42,16 +42,18 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 - [x] Algorithm and programming logic 
 - [x] Git and Github 
 - [x] Learning Programming (java)
+- [x] Learning Programming (python)
 - [x] Essencial DataBase
 - [x] DataBase Foundations (oracle academy)
 - [x] SQL
-- [ ] Python (with Django)
+- [x] ETL 1/2
+- [ ] PL-SQL
+- [ ] Python (++Django)
 - [ ] MySQL
 - [ ] Excel
 - [ ] VBA e Macro
 - [ ] Power BI
 - [ ] SQL Server
-- [ ] ETL 1/2
 - [ ] ETL 2/2
  
  <!-- Status -->
