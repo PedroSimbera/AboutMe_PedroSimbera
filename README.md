@@ -51,8 +51,7 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 - [ ] PL-SQL
 - [ ] Python (++Django)
 - [ ] MySQL
-- [ ] Excel
-- [ ] VBA e Macro
+- [ ] Excel (VBA - Macro)
 - [ ] Power BI
 - [ ] SQL Server
 - [ ] ETL 2/2
