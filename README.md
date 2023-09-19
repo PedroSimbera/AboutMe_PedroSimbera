@@ -47,6 +47,7 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 - [x] DataBase Foundations (oracle academy)
 - [x] SQL
 - [x] ETL 1/2
+- [x] Statistics Library In Python (Numpy & Pandas)
 - [ ] PL-SQL
 - [ ] Python (++Django)
 - [ ] MySQL
