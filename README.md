@@ -27,16 +27,6 @@ Here I will tell you a little about myself, my trajectory and my adventures.
   -  Particularly with data science, data analytics, machine learning, artificial intelligence teams. I am passionate about leveraging my skills to contribute to impactful projects and look forward to being part of a team that shares my desire for innovation and data-driven solutions. Additionally, I am excited to apply the knowledge I gained from my postgraduate studies to real-world projects.
 
 
-- ⚡ Curiosities about me:
- 
-   - I enjoy taking care of my health and nutrition;
- 
-   - I love exercising;
-
-   - I'm a big fan of setting goals (I always mention that they should be made with care and attention):
-    
-    - I study two languages. I love it!
-
 - 🔭 List of courses I am taking and those that have been completed:
 - [x] Algorithm and programming logic 
 - [x] Git and Github 
