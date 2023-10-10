@@ -1,4 +1,4 @@
-# 👋 HI THERE, welcome to my Github profile.
+## 👋 HI THERE, welcome to my Github profile.
 
 ### Hallo, Guten Tag! Wie geht's? Ich bin Pedro Simbera!
 <!-- IMG -->
@@ -18,8 +18,7 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="35px" width="35px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MicrosoftSqlServer" height="35px" width="35px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="35px" width="35px" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" height="35px" width="35px" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" height="35px" width="35px" /></code>                            
+                          
 <div>
 
 <!-- about me -->
