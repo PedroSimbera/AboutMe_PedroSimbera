@@ -9,16 +9,21 @@
 <!-- Learning and improving -->
 Here I will tell you a little about myself, my trajectory and my adventures.
 
-- 🌱 I’m currently learning and improving these technology's:
+- 🌱 I’m currently improving these technology's, without excluding others:
 
 <!-- Skills -->
 <div>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" height="35px" width="35px" /></code> 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="mysql" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="35px" width="35px" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" height="35px" width="35px" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MicrosoftSqlServer" height="35px" width="35px" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="35px" width="35px" /></code>
-                          
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostGreSQL" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" height="35px" width="35px" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original-wordmark.svg" alt="streamlit" height="35px" width="35px" /></code>
+                        
 <div>
 
 <!-- about me -->
@@ -26,25 +31,6 @@ Here I will tell you a little about myself, my trajectory and my adventures.
 
   -  Particularly with data science, data analytics, machine learning, artificial intelligence teams. I am passionate about leveraging my skills to contribute to impactful projects and look forward to being part of a team that shares my desire for innovation and data-driven solutions. Additionally, I am excited to apply the knowledge I gained from my postgraduate studies to real-world projects.
 
-
-- 🔭 List of courses I am taking and those that have been completed:
-- [x] Algorithm and programming logic 
-- [x] Git and Github 
-- [x] Learning Programming (java)
-- [x] Learning Programming (python)
-- [x] Essencial DataBase
-- [x] DataBase Foundations (oracle academy)
-- [x] SQL
-- [x] ETL 1/2
-- [x] Statistics Library In Python (Numpy & Pandas)
-- [ ] PL-SQL
-- [ ] Python (++Django)
-- [ ] MySQL
-- [ ] Excel (VBA - Macro)
-- [ ] Power BI
-- [ ] SQL Server
-- [ ] ETL 2/2
- 
  <!-- Status -->
  ## Github Stats
 <div>
