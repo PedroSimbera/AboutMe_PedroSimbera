@@ -1,7 +1,7 @@
 ## 👋 HI THERE, welcome to my Github profile.
 
 <!-- IMG -->
-![Meu nome em uma imagem](img/psimg.jpeg)
+![Meu nome em uma imagem](img/psim.jpeg)
  
 
 
